@@ -44,5 +44,6 @@ public class Nomor7 {
                 break;
             }
         }
+          System.out.println("Mokhamad Akbar Wijaya(20090037)");
     }
 }
